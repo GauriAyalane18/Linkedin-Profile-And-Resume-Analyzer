@@ -1,7 +1,3 @@
-<p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
-
-![AI-Resume-Analyzer](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=5th%20Sem%20Final%20Year%20Project%20at%20Kirti%20M%20Doongursee%20College%20(2022%20-%2023)&font=Raleway&language=1&pattern=Plus&theme=Light)
-
 <div align="center">
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
@@ -27,15 +23,6 @@
   <p>
     
 </div><br/><br/>
-
-## About the Project 🥱
-<div align="center">
-    <br/><img src="https://raw.githubusercontent.com/deepakpadhi986/AI-Resume-Analyzer/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
-    <p align="justify"> 
-      A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
-      And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
-    </p>
-</div>
 
 ## Scope 😲
 i. It can be used for getting all the resume data into a structured tabular format and csv as well, so that the organization can use those data for analytics purposes
@@ -141,7 +128,7 @@ To run this project, perform the following tasks 😨
 
 Download the code file manually or via git
 ```bash
-git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
+git clone https://github.com/GauriAyalane18/Linkedin-Profile-And-Resume-Analyzer
 ```
 
 Create a virtual environment and activate it **(recommended)**
@@ -171,7 +158,6 @@ python -m spacy download en_core_web_sm
 After installation is finished create a Database ```cv```
 
 And change user credentials inside ```App.py```
-https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/17e1cdb207fef62557dc394f4158bda515e541fd/App/App.py#L95
 
 Go to ```venvapp\Lib\site-packages\pyresparser``` folder
 
@@ -272,4 +258,10 @@ If ``GeocoderUnavailable`` error comes up then just check your internet connecti
 
 ![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
 
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a>
+### 👩‍💻 Project Customized & Enhanced by:
+
+- **Gauri Ayalane**  
+  GitHub: [@GauriAyalane18](https://github.com/GauriAyalane18)
+
+> *Feel free to fork, enhance, or suggest improvements! PRs are welcome!*
+
